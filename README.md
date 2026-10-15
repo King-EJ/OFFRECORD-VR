@@ -11,7 +11,7 @@ Version 0.1.2 (test build on Quest 3 VDXR).
 CHANGES
 * 0.1.2 - "Use" (B / E) works on what your RIGHT CONTROLLER points at (a short green beam shows when it points
         at something usable). [Input] InteractWith = Head for the old way (also in the VR menu).
-        The game's own arms / hands are your VR hands ([Hands] HandModel = Game, now the default): the right
+        The game's own arms / hands are your VR hands ([Hands] HandModel = Game **not working**, now the default): the right
         hand (with forearm) is taken from the pistol's first-person arms in its grip pose, the left hand is
         its mirror image. Until you pick up the gun the built-in hands show. Hand only: [Hands]
         GameHandLength = Hand. Both are in the VR menu under "Controls / hands".
