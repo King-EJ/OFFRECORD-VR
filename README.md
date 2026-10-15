@@ -39,9 +39,8 @@ WHAT IT DOES
 
 INSTALL
 -------
-1. BepInEx 5 (5.4.23) is already in the game folder - you have it.
-2. Copy the BepInEx folder from this zip into the game folder (merge / overwrite).
-3. Start your VR runtime (SteamVR, Quest Link / Air Link, Virtual Desktop) first, then the game.
+1. Copy the OFFRECORDVR.zip into the game folder (merge / overwrite).
+2. Start your VR runtime (SteamVR, Quest Link / Air Link, Virtual Desktop) first, then the game.
 
 CONTROLS
 --------
